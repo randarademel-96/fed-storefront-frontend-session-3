@@ -12,6 +12,7 @@ function Navigation(props) {
           <a href="/shop">Shop</a>
         </div>
       </div>
+      
       <div className="flex items-center gap-4">
         <div>
           <a href="/cart" className="flex items-center gap-4 relative">
